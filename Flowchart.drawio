@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T14:13:30.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="b6G7rXh9x94JFUt-0aqp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T15:14:15.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BIhjmjZb0L9zQIMDV33a" version="24.6.4" type="github">
   <diagram name="Page-1" id="32DqOrLQi8ubs-kYopTL">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZ4f1tqIhrlx9hKkzKym-13" target="zZ4f1tqIhrlx9hKkzKym-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZ4f1tqIhrlx9hKkzKym-13" target="zZ4f1tqIhrlx9hKkzKym-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZ4f1tqIhrlx9hKkzKym-13" target="zZ4f1tqIhrlx9hKkzKym-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-13" value="Talent Hub and Language Learning Solutions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="80" width="152" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-19" value="Gamified&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Front End&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="152" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-22" value="Back End&lt;div&gt;Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="152" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-24" value="Learning Language &amp;amp; Psychometric Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-25" value="Website and integration of Game Leaderboards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="510" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-26" value="Define player traits using 8 metrics." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-27" value="Analyze player decisions to validate their soft skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-28" value="Sell their data of soft skills and real-time personality traits." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ4f1tqIhrlx9hKkzKym-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zZ4f1tqIhrlx9hKkzKym-19" target="zZ4f1tqIhrlx9hKkzKym-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="310" />
+              <mxPoint x="180" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
